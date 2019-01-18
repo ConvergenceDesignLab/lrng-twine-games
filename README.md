@@ -2,11 +2,11 @@
 
 ## Concept
 
-A series of vanilla HTML/JS/CSS games & tools built pre-2019 (maintained by, but not originally created by @mikewesthad). I'm archiving them here so that they can be maintained in a versionable way. These were produced for [LRNG](https://www.lrng.org/)'s online learning playlists. A learning playlist is a collection of learning activities around a theme.
+A series of web games & tools built pre-2019 (maintained by, but not originally created by @mikewesthad). I'm archiving them here so that they can be maintained in a versionable way. These were produced for [LRNG](https://www.lrng.org/)'s online learning playlists. A learning playlist is a collection of learning activities around a theme.
 
 ## Technical
 
-The games were all built with vanilla HTML/JS/CSS.
+The games were all built with client-side web technologies. Each folder is self-contained and can be hosted as is.
 
 ### Running
 
