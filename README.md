@@ -6,15 +6,7 @@ A series of vanilla HTML/JS/CSS games & tools built pre-2019 (maintained by, but
 
 ## Technical
 
-The game were built with a variety of tools:
-
-- `games/fraud-tips` - vanilla HTML/JS/CSS
-- `games/managing-your-account` - vanilla HTML/JS/CSS
-- `games/managing-your-account-2018` - vanilla HTML/JS/CSS
-- `games/model-employee-tips` - vanilla HTML/JS/CSS
-- `games/tax-forms` - vanilla HTML/JS/CSS
-- `games/tax-forms-2018` - vanilla HTML/JS/CSS
-- `games/tax-forms-year-round` - vanilla HTML/JS/CSS
+The games were all built with vanilla HTML/JS/CSS.
 
 ### Running
 
