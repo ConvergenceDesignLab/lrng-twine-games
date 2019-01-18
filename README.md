@@ -31,3 +31,7 @@ http-server -c-1 -o
 You can copy the contents of any of the `games` folders to a server for deploying, just make sure you are _not_ copy the whole repository folder (which includes .git and the readme).
 
 ### Changelog
+
+01/18/2010:
+
+- Remove unused clipboard dependency, @mikewesthad
