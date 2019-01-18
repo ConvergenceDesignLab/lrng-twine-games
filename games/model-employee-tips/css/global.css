@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'rokkitt';
-    src: url('../../global/fonts/rokkitt/rokkitt-bold.eot');
-    src: url('../../global/fonts/rokkitt/rokkitt-bold.eot?#iefix') format('embedded-opentype'),
-         url('../../global/fonts/rokkitt/rokkitt-bold.woff2') format('woff2'),
-         url('../../global/fonts/rokkitt/rokkitt-bold.woff') format('woff'),
-         url('../../global/fonts/rokkitt/rokkitt-bold.ttf') format('truetype'),
-         url('../../global/fonts/rokkitt/rokkitt-bold.svg#rokkittbold') format('svg');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-bold.eot');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-bold.eot?#iefix') format('embedded-opentype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-bold.woff2') format('woff2'),
+         url('../global-copy/fonts/rokkitt/rokkitt-bold.woff') format('woff'),
+         url('../global-copy/fonts/rokkitt/rokkitt-bold.ttf') format('truetype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-bold.svg#rokkittbold') format('svg');
     font-weight: bold;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'rokkittlight';
-    src: url('../../global/fonts/rokkitt/rokkitt-light.eot');
-    src: url('../../global/fonts/rokkitt/rokkitt-light.eot?#iefix') format('embedded-opentype'),
-         url('../../global/fonts/rokkitt/rokkitt-light.woff2') format('woff2'),
-         url('../../global/fonts/rokkitt/rokkitt-light.woff') format('woff'),
-         url('../../global/fonts/rokkitt/rokkitt-light.ttf') format('truetype'),
-         url('../../global/fonts/rokkitt/rokkitt-light.svg#rokkittlight') format('svg');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-light.eot');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-light.eot?#iefix') format('embedded-opentype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-light.woff2') format('woff2'),
+         url('../global-copy/fonts/rokkitt/rokkitt-light.woff') format('woff'),
+         url('../global-copy/fonts/rokkitt/rokkitt-light.ttf') format('truetype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-light.svg#rokkittlight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -25,35 +25,35 @@
 @font-face {
     font-family: 'rokkittmedium';
     src: url('rokkitt-medium.eot');
-    src: url('../../global/fonts/rokkitt/rokkitt-medium.eot?#iefix') format('embedded-opentype'),
-         url('../../global/fonts/rokkitt/rokkitt-medium.woff2') format('woff2'),
-         url('../../global/fonts/rokkitt/rokkitt-medium.woff') format('woff'),
-         url('../../global/fonts/rokkitt/rokkitt-medium.ttf') format('truetype'),
-         url('../../global/fonts/rokkitt/rokkitt-medium.svg#rokkittmedium') format('svg');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-medium.eot?#iefix') format('embedded-opentype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-medium.woff2') format('woff2'),
+         url('../global-copy/fonts/rokkitt/rokkitt-medium.woff') format('woff'),
+         url('../global-copy/fonts/rokkitt/rokkitt-medium.ttf') format('truetype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-medium.svg#rokkittmedium') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'rokkitt';
-    src: url('../../global/fonts/rokkitt/rokkitt-regular.eot');
-    src: url('../../global/fonts/rokkitt/rokkitt-regular.eot?#iefix') format('embedded-opentype'),
-         url('../../global/fonts/rokkitt/rokkitt-regular.woff2') format('woff2'),
-         url('../../global/fonts/rokkitt/rokkitt-regular.woff') format('woff'),
-         url('../../global/fonts/rokkitt/rokkitt-regular.ttf') format('truetype'),
-         url('../../global/fonts/rokkitt/rokkitt-regular.svg#rokkittregular') format('svg');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-regular.eot');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-regular.eot?#iefix') format('embedded-opentype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-regular.woff2') format('woff2'),
+         url('../global-copy/fonts/rokkitt/rokkitt-regular.woff') format('woff'),
+         url('../global-copy/fonts/rokkitt/rokkitt-regular.ttf') format('truetype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-regular.svg#rokkittregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'rokkittthin';
-    src: url('../../global/fonts/rokkitt/rokkitt-thin.eot');
-    src: url('../../global/fonts/rokkitt/rokkitt-thin.eot?#iefix') format('embedded-opentype'),
-         url('../../global/fonts/rokkitt/rokkitt-thin.woff2') format('woff2'),
-         url('../../global/fonts/rokkitt/rokkitt-thin.woff') format('woff'),
-         url('../../global/fonts/rokkitt/rokkitt-thin.ttf') format('truetype'),
-         url('../../global/fonts/rokkitt/rokkitt-thin.svg#rokkittthin') format('svg');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-thin.eot');
+    src: url('../global-copy/fonts/rokkitt/rokkitt-thin.eot?#iefix') format('embedded-opentype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-thin.woff2') format('woff2'),
+         url('../global-copy/fonts/rokkitt/rokkitt-thin.woff') format('woff'),
+         url('../global-copy/fonts/rokkitt/rokkitt-thin.ttf') format('truetype'),
+         url('../global-copy/fonts/rokkitt/rokkitt-thin.svg#rokkittthin') format('svg');
     font-weight: normal;
     font-style: normal;
 
