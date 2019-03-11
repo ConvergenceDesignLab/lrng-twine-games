@@ -23,7 +23,11 @@ You can copy the contents of any of the `games` folders to a server for deployin
 
 ### Changelog
 
-01/18/2010:
+03/11/2019:
+
+- Moved tax tools to [ConvergenceDesignLab/tax-resources](https://github.com/ConvergenceDesignLab/tax-resources)
+
+01/18/2019:
 
 - Restructure so that each game is modular and does NOT depend on a `../globals` folder, @mikewesthad
 - Remove unused clipboard dependency, @mikewesthad
